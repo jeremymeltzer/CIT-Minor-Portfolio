@@ -1,4 +1,4 @@
-1. CIT 281 Lab 1 ([link-to-repo](https://jeremymeltzer.github.io/cit281-lab1/)): Install applications, practice command line and keyboard.
+1. CIT 281 Lab 1 <a href=["URL_of_your_repository"](https://jeremymeltzer.github.io/cit281-lab1/)>Link to Repo</a> : Install applications, practice command line and keyboard.
 2. CIT 281 Lab 2 ([link-to-repo](https://jeremymeltzer.github.io/cit281-lab2/)): Setup git using the command line.
 3. CIT 281 Project 1 ([link-to-repo](https://jeremymeltzer.github.io/cit281-p1/)): Practice with command line and very basic JavaScript.
 4. CIT 281 Lab 3 ([link-to-repo](https://jeremymeltzer.github.io/cit281-lab3/)): Practice JavaScript and Node.js.
